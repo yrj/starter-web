@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Steps to contribute
+Steps to contribute cannot be added here. Please fork and issue pull request for review 
 
 ## Deployment
 
