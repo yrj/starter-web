@@ -16,6 +16,8 @@ Steps to contribute cannot be added here. Please fork and issue pull request for
 
 ## Introduction
 
+Its a Stash Example
+
 ## Team
 
 ##Conclusion
